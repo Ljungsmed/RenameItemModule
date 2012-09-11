@@ -7,7 +7,18 @@ obj
 bin
 sitecore
 temp
-App_*
+# App_*
+App_Browsers
+*connection*
+*commands*
+*icons*
+*fieldtypes*
+*license*
+*analytics*
+*webdav*
+security
+prefetch
+*.example
 default.*
 global.*
 layouts
@@ -18,3 +29,8 @@ upload
 *.css
 *.user
 *.sitecore
+Website/App_Config/LanguageDefinitions.config
+Website/App_Config/MimeTypes.config
+Website/App_Config/Portraits.config
+Website/App_Config/Prototypes.config
+Website/App_Config/XamlSharp.config
