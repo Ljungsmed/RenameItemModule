@@ -1,0 +1,20 @@
+# git ignore file
+data
+databases
+*.sql
+*.suo
+obj
+bin
+sitecore
+temp
+App_*
+default.*
+global.*
+layouts
+xsl
+web.config*
+design.*
+upload
+*.css
+*.user
+*.sitecore
